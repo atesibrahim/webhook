@@ -5,7 +5,7 @@ Link : https://dzone.com/articles/step-by-step-integration-with-slack-via-webhoo
 
 App is running on localhost:8080
 
-http://localhost:8080/webhooks/messages/iates
+http://localhost:8080/messages/iates
 
 *Body should be as follows;*
 
